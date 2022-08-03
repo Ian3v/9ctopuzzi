@@ -1,0 +1,30 @@
+{
+    "name": "9ctopuzzi",
+    "displayName": "9ctopuzzi",
+    "description": "theme cyberpunk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "theme 9ctopuzzi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme 9ctopuzzi-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/falcon.gif",
+    "author": {
+        "name": "Christian 3jhoel"
+    },
+    "repository": {
+        "url": "https://github.com/Ian3v/9ctopuzzi.git",
+        "type": "git"
+    },
+    "publisher": "9ctopuzzi"
+}
