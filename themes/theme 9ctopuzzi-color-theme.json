@@ -22,14 +22,14 @@
 			"activityBarBadge.foreground": "#000000",
 			"sideBarTitle.foreground": "#f80c5b",
 			"focusBorder": "#00aa8e",
-			// "sideBar.foreground": "#c454ba",
-			"sideBar.foreground": "#27d797",
+			"sideBar.foreground": "#c454ba",
+			// "sideBar.foreground": "#27d797",
 			// "sideBar.foreground": "#ec6857",
 			"activityBar.activeBackground": "#1c1e26",
 			"sideBar.border": "#201a32",
 			"list.hoverBackground": "#2e1b63",
-			"list.hoverForeground": "#ff5ac8",
-			"list.errorForeground": "#ff5d5d",
+			"list.hoverForeground": "#3aff85",
+			"list.errorForeground": "#fd5b1b",
 			"list.activeSelectionIconForeground": "#ff07c1b2",
 			"list.inactiveSelectionBackground": "#2e0049fa",
 			"list.inactiveFocusOutline": "#00ff1500",
@@ -295,7 +295,8 @@
 					"support.type"
 				],
 				"settings": {
-					"foreground": "#e2cc4d"
+					// "foreground": "#e2cc4d"
+					"foreground": "#4ce5eb"
 					// "foreground": "#76ff7d"
 					// "foreground": "#3fc5f6"
 				}
